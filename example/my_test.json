@@ -1,0 +1,12 @@
+{
+  "suites": [
+    {
+      "classes": [
+        "example.testcases.SmokingTests",
+        "example.testcases.RegressionTests"
+      ],
+      "include_group": ["P0"],
+      "exclude_group": ["P2", "P3"]
+    }
+  ]
+}
